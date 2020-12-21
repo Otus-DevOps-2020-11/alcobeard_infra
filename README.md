@@ -4,10 +4,9 @@ alcobeard Infra repository
 ### Lecture 5, homework 3
 
 
-```
-bastion_IP = 84.201.179.171
+bastion_IP = 84.201.179.171 \
 someinternalhost_IP = 10.129.0.28
-```
+
 
 > Accessing isolated server with "ssh someinternalhost" style
 >
